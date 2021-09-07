@@ -1,5 +1,4 @@
-
-package junit.earaya;
+package junit.gastonb;
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
@@ -10,7 +9,6 @@ public class KataUnoTest {
     @Test
     public void test1() {
         assertEquals("ehT kciuq nworb xof spmuj revo eht yzal .god", KataUno.reverseWords("The quick brown fox jumps over the lazy dog."));
-
     }
     @Test
     public void test2() {
